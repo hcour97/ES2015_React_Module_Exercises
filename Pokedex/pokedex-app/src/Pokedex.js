@@ -8,7 +8,7 @@ import "./Pokedex.css"
  *  via props.
  */
 
-const Pokedex = ( props ) => {
+function Pokedex(props) {
     let winMessage = null;
     if (props.isWinner) {
       winMessage = <p className="Pokedex-winner">THIS HAND WINS!</p>;

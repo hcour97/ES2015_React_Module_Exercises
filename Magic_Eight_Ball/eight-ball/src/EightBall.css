@@ -1,0 +1,21 @@
+.EightBall {
+    margin: auto;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    line-height: 250px;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    background-color:lightgrey;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: lightgrey;
+}
+
