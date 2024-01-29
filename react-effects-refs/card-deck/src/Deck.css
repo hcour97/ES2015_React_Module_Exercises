@@ -1,0 +1,12 @@
+.Deck {
+    background-color: green;
+    text-align: center;
+}
+
+.Body {
+    background-color: green;
+}
+
+.Deck-cardarea{
+    margin-top: 80px;
+}
