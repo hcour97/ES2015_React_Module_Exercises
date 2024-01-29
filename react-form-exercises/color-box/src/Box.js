@@ -6,8 +6,8 @@ import React from "react";
 
 function Box({id, handleRemove, width=5, height=5, backgroundColor="purple"}) {
     const removeBox = () => handleRemove(id);
+    
     return (
-        
         <div>
             <div style={{
                     width: `${width}em`, 
